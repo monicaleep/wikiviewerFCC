@@ -1,0 +1,50 @@
+a, a:hover {
+  text-decoration: none;
+}
+.well-main {
+  text-align: center;
+}
+
+.info:hover {
+  border-left: solid #69306D 5px;
+}
+.info {
+  border: solid transparent 5px;
+}
+
+.hidden {
+  display: none;
+}
+.container-fluid {
+  width: 80%;
+  margin: auto;
+}
+.well {
+  background-color: #0E103D;
+}
+h1, h2 {
+  color: #F2D7EE;
+}
+body {
+  background-color: #D3BCC0;
+  font-family: Lato;
+}
+p, label {
+  color: #D3BCC0;
+}
+input {
+  border-radius: 15px;
+  width: 40%;
+  padding-left: 5px;
+}
+input:focus {
+  outline: transparent;
+}
+.btn, .btn:focus, .btn:active {
+  background-color: #69306D;
+  color: #D3BCC0;
+}
+.btn:hover {
+  color: #D3BCC0;
+  background-color: #0E103D;
+}
